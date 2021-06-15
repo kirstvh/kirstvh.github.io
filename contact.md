@@ -4,4 +4,8 @@
 
 ✉️ kirsten.vanhuffel@ugent.be
 
-[🔙 Back to home page](https://kirstvh.github.io/contact)
+---------------------------
+<p align="center">
+  [🔙 Back to home page](https://kirstvh.github.io/contact)
+</p>
+

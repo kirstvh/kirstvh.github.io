@@ -1,3 +1,4 @@
-## 📬 Contact
+### 📬 Contact
 
-✉️ kirsten_vh@hotmail.com; kirsten.vanhuffel@ugent.be
+✉️ kirsten_vh@hotmail.com
+✉️ kirsten.vanhuffel@ugent.be

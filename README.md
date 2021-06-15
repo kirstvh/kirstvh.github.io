@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Intro
+
+
+Hi, my name is Kirsten Van Huffel and I am a PhD student at the research unit KERMIT (Knowledge-based Systems, Ghent University). My main interest is applying machine learning for constructive synthetic biology.  
 
 You can use the [editor on GitHub](https://github.com/kirstvh/kirstvh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -6,7 +6,7 @@ Hi, my name is Kirsten Van Huffel and I am a PhD student at the research unit KE
 
 
 
-<img src="images/constructive_bio.png" width="500" >
+<img src="images/constructive_bio.png" width="800" >
  
 
  

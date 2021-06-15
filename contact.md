@@ -6,6 +6,6 @@
 
 ---------------------------
 <p align="center">
-  [🔙 Back to home page](https://kirstvh.github.io/contact)
+  <text [🔙 Back to home page](https://kirstvh.github.io/contact) /text>
 </p>
 

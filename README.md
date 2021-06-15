@@ -10,5 +10,5 @@ Hi, my name is Kirsten Van Huffel and I am a PhD student at the research unit KE
   ------------------
 
 #### [📬  Contact](https://kirstvh.github.io/contact)
-#### [📃  CV](https://kirstvh.github.io/CV)
+#### [📃  CV](https://kirstvh.github.io/contact)
  

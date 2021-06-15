@@ -8,7 +8,7 @@ Hi, my name is Kirsten Van Huffel and I am a PhD student at the research unit KE
 
  
  
-  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  ------------------
 
 ### [📬 Contact](https://kirstvh.github.io/contact)
 ### [📃 CV](https://kirstvh.github.io/CV)

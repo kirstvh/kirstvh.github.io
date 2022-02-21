@@ -13,3 +13,7 @@ In this context, we define "coverage" as the fraction of all available modules (
 
 We developed the Julia package [BioCCP.jl](https://github.com/kirstvh/BioCCP.jl) to help biotechnologists to determine an adeqate library size for their screening experiments!
 A notebook with illustrations is available [here](https://kirstvh.github.io/BioCCP_Case_Study_html).
+
+---------------------------
+ 
+  [🔙 *Back to home page*](https://kirstvh.github.io)

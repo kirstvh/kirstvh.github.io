@@ -1,5 +1,5 @@
  
-  [🔙 *Back to home page*](https://kirstvh.github.io)
+[🔙 **Home**](https://kirstvh.github.io)
   
 ---------------------------
 
@@ -53,4 +53,4 @@ A [Pluto notebook](https://kirstvh.github.io/BioCCP_Case_Study_html) with illust
 
 ---------------------------
  
-  [🔙 *Back to home page*](https://kirstvh.github.io)
+[🔙 **Home**](https://kirstvh.github.io)

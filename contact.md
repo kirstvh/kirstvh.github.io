@@ -1,12 +1,8 @@
 ### 📬 Contact
 
-✉️ kirsten_vh@hotmail.com
+✉️ kirsten_vh@hotmail.com; kirsten.vanhuffel@ugent.be
 
-✉️ kirsten.vanhuffel@ugent.be
-
-Coupure Links 653
-
-9000 Gent
+Coupure Links 653, 9000 Gent
 
 ---------------------------
  

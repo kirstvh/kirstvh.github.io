@@ -25,7 +25,7 @@ However, an important question is how many variants should still  be present in 
 In this context, we define "coverage" as the fraction of all available modules (or k-combination of modules) of interest that are present in a library.
 Coverage is crucial when we want to build a representative model of design activity based on screening data.
 
-For example, consider a multiplex CRISPR/Cas experiment in plants to find an optimal plant phenotype, e.g., in terms of flowering time, growth and nodule forming. Here, we define a set of target genes and design gRNA sequences that specifically bind them. Random delivery of multiple gRNAs per plant results in different combinations of gene knockouts per plant.
+For example, consider a multiplex CRISPR/Cas experiment in plants to find an optimal plant phenotype, e.g., in terms of flowering time, growth and nodule forming. Here, we define a set of target genes and design gRNA sequences that specifically bind them. Random delivery of multiple gRNAs per plant and subsequent CRISPR/Cas-mediated genome editing results in a mutated collection of plant cells with different combinations of gene knockouts.
 How many plants should be grown in order to observe each pairwise combination of gene knockouts at least once, taken into account an unequal distribution of gRNA/Cas delivery and the different mutation/knockout efficiencies of gRNAs?
 
 <p align="center">

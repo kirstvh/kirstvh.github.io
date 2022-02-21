@@ -17,7 +17,7 @@ An important question is how many variants should be present in a library or the
 In this context, we define "coverage" as the fraction of all available modules (or k-combination of modules) of interest that are present in a library.
 
 We developed the Julia package [BioCCP.jl](https://github.com/kirstvh/BioCCP.jl) to help biotechnologists to determine an adeqate library size for their screening experiments!
-A notebook with illustrations is available [here](https://kirstvh.github.io/BioCCP_Case_Study_html).
+A [Pluto notebook](https://kirstvh.github.io/BioCCP_Case_Study_html) with illustrations is available. Consult the accompanying paper [here](https://academic.oup.com/bioinformatics/article-abstract/38/4/1144/6425668?redirectedFrom=fulltext).
 
 ---------------------------
  

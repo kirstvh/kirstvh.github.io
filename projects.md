@@ -1,6 +1,6 @@
 ## BioCCP.jl
 
-My first project was about the experimental design of screening experiments in biotechnology. 
+The first main project in my PhD was centered around the experimental design of screening experiments in biotechnology. 
 In these experiments, a large number of variants of, for example, proteins, cells or organisms are generated to find an optimal phenotype. 
 Here, we make the abstraction of considering each biosystem as a set of modules that is assembled into a design. 
 For example, you can engineer a protein by varying and recombining existing protein domains. 

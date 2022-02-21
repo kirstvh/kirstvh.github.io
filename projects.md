@@ -1,4 +1,15 @@
-## BioCCP.jl
+# General overview
+
+Our first goal is to develop tools to describe the design space of combinatorial biosystems.
+Second, we aim to model the activity of combinatorial designs by learning from experimental data, learn the underlying pattern of what makes a design active and building an activity landscape over the design space.
+Finally, we want to provide concrete recommendations for building novel, active designs.  
+
+<p align="center">
+  <img src="images/workflow.PNG" width="500"/>
+</p>
+
+## 1. The Combinatorial Design Space
+### BioCCP.jl
 
 The first main project in my PhD was centered around the experimental design of screening experiments in biotechnology. 
 In these experiments, a large number of variants of, for example, proteins, cells or organisms are generated to find an optimal phenotype. 

@@ -1,5 +1,4 @@
- 
-  [🔙 *Back to home page*](https://kirstvh.github.io)
+[🔙 **Home**](https://kirstvh.github.io)
   
 ---------------------------
 
@@ -12,5 +11,5 @@ Coupure Links 653, 9000 Gent
 
 ---------------------------
  
-  [🔙 *Back to home page*](https://kirstvh.github.io)
+[🔙 **Home**](https://kirstvh.github.io)
  

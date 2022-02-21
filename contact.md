@@ -1,3 +1,8 @@
+ 
+  [🔙 *Back to home page*](https://kirstvh.github.io)
+  
+---------------------------
+
 ### Contact
 
 ✉️ kirsten_vh@hotmail.com <br>

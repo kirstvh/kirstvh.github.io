@@ -13,6 +13,11 @@ In chemical drugs, the type and position of atoms are varied to obtain a highly 
 In plant breeding, one can create various growth phenotypes by performing gene knockouts combinatorially (multiplex CRISPR/Cas).
 
 The large collection of variants we make in the wet lab by randomly varying and recombining modules is called a "library". 
+
+<p align="center">
+  <img src="images/designgeneration.png" width="600"/>
+</p>
+
 An important question is how many variants should be present in a library or the "library size" to sufficiently cover the design space. 
 In this context, we define "coverage" as the fraction of all available modules (or k-combination of modules) of interest that are present in a library.
 

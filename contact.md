@@ -11,5 +11,4 @@ Coupure Links 653, 9000 Gent
 
 ---------------------------
  
-[🔙 **Home**](https://kirstvh.github.io)
  

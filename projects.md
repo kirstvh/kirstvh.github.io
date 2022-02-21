@@ -1,4 +1,4 @@
-## BioCCP
+## BioCCP.jl
 
 My first project was about the experimental design of screening experiments in biotechnology. 
 In these experiments, a large number of variants of, for example, proteins, cells or organisms are generated to find an optimal phenotype. 

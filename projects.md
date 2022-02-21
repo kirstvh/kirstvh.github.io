@@ -1,7 +1,7 @@
 # General overview
 
 Our first goal is to develop tools to describe the design space of combinatorial biosystems.
-Second, we aim to model the activity of combinatorial designs by learning from experimental data, learn the underlying pattern of what makes a design active and building an activity landscape over the design space.
+Second, we aim to model the activity of combinatorial designs by learning from experimental data, learning the underlying pattern of what makes a design active and building an activity landscape over the design space.
 Finally, we want to provide concrete recommendations for building novel, active designs.  
 
 <p align="center">

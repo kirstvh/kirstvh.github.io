@@ -9,6 +9,7 @@ Hi, my name is Kirsten Van Huffel and I am a PhD student at the research unit KE
  
   ------------------
   
-Some of my ongoing projects can be found [here](https://kirstvh.github.io/projects). [Contact me for more info!](https://kirstvh.github.io/contact)
+Some of my ongoing projects can be found [here](https://kirstvh.github.io/projects). 
+[Contact me for more info!](https://kirstvh.github.io/contact)
 
 

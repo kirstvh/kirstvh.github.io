@@ -1,4 +1,4 @@
-![https://colab.research.google.com/drive/1XBf-aVqRkSwLP63E8QTVbQxM--JwWfZj#scrollTo=apVD-kIoLERf]
+[Google Colab](https://colab.research.google.com/drive/1XBf-aVqRkSwLP63E8QTVbQxM--JwWfZj#scrollTo=apVD-kIoLERf)
 
 # Conducting the Job Interview: Structure of the Conversation and Types of Questions
 

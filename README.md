@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1XBf-aVqRkSwLP63E8QTVbQxM--JwWfZj#scrollTo=apVD-kIoLERf
+
 # Conducting the Job Interview: Structure of the Conversation and Types of Questions
 
 The job interview is usually the first meeting between you and the candidate. Often, candidates are nervous. However, we aim to meet a relaxed candidate, as we don't want tense colleagues in the workplace. Therefore, it's important to make the candidate feel at ease and ensure the conversation is always amicable. We place great importance on the candidate experience.

@@ -92,7 +92,7 @@ We provide some tips to guarantee a pleasant candidate experience:
 - Provide honest answers to candidates' questions.
 - Give honest feedback.
 
-## Frequently Asked Questions: Detailed Responses
+## FAQ
 
 Below is an overview of the most frequently asked questions. If you have other inquiries, please contact the selection advisor who is assisting you with this vacancy.
 

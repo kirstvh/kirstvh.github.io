@@ -14,24 +14,27 @@ You can structure the job interview as follows:
 
 3. **Ask competency-based questions:** To discover the talents of your future colleague, it's best to ask open-ended questions. Focus on the candidate's past behavior. What have they done and how did they do it? Behavior from the past is a predictor of future behavior. Below is an overview of the types of questions that are suitable to ask during a job interview, as well as a list of competencies and the questions that can be used to assess these competencies.
 
-### Suitable Questions for a Job Interview
+5. **Provide information about the position and entity:** The candidate is also there to gather information during a job interview. Therefore, explain the characteristics of the position, the conditions under which it is performed, and the main contacts the person will have. Be honest about the culture within your department and the context of your service, and dare to frame any difficulties.
 
-- Open-ended questions, where the interviewee has the space to provide their own answer. Start questions with "how," "what," "which," "what makes," etc.
-- Follow-up questions, where you delve deeper into what has been said. For example, "I'd like to go back to... what exactly did you mean by that?" or "You mentioned earlier that you... Can you tell me more about that?"
-- Reflective questions, where the interviewer checks if they've understood correctly. For instance, "So, you're saying that..." or "If I understand you correctly, you think that..."
-- STAR questions, where behavior predicts behavior. Ensure the candidate provides a concrete example by discussing the Situation, Task, Action, Result, and Reflection.
+6. **Allow the candidate to ask questions:** Answer the candidate's questions briefly and to the point. For questions about employment conditions (such as salary, insurance, etc.), refer to the HR department. Please always coordinate salary and start date with the selection advisor.
 
-### Questions to Avoid During a Job Interview
+## Inviting Candidates
 
-- Hypothetical questions, which prompt a hypothetical answer.
-- Leading questions, where the answer is suggested in the question itself.
-- Either/or questions, which force the interviewee to choose between multiple options.
-- Multiple questions asked at once, where only the last or easiest question gets answered.
-- Closed questions, which can be answered with a simple "yes" or "no".
+You may invite the candidates you wish to meet for a first interview yourself or you can rely on your selection advisor for this. 
 
-4. **Provide information about the position and entity:** The candidate is also there to gather information during a job interview. Therefore, explain the characteristics of the position, the conditions under which it is performed, and the main contacts the person will have. Be honest about the culture within your department and the context of your service, and dare to frame any difficulties.
+- Inviting Yourself: When inviting candidates yourself, ensure that the purpose of the meeting is clear. Is it solely an interview, or do you also expect the candidate to undertake a case study? Of course, provide the day, location, and time. But don't forget to specify the end time as well. This allows candidates to organize themselves optimally. 
+In any case, inform your selection advisor of the candidates who need to be notified that they will not be invited for further steps in the selection process. 
 
-5. **Allow the candidate to ask questions:** Answer the candidate's questions briefly and to the point. For questions about employment conditions (such as salary, insurance, etc.), refer to the HR department. Please always coordinate salary and start date with the selection advisor.
+- Through the HR Department: If you enlist the HR department to invite candidates, we need a specific overview of the candidates (to be invited and rejected) at least 5 working days before the start of the first interview. Clearly state the purpose of the interview (with or without case/tests/preparation) and the time allocated to meet all candidates (e.g., 1/9/2022 from 9 am to 1 pm). Also, indicate how long you wish to meet each candidate (e.g., a minimum of 45 minutes per candidate).
+
+## Questions to avoid
+
+The following questions are best avoided during a job interview:
+- Hypothetical question: A hypothetical question is asked, leading to a hypothetical answer. For instance, if you have a difficult customer, what would you do?
+- Suggestive question: The answer is already implied in the question. You surely remain polite to the customer, right?
+- Alternative question: The interviewee is forced to choose between different alternatives. Do you involve your boss or do you resolve it yourself?
+- Cocktail question: Asking multiple questions in a row. Only the last or easiest question is typically answered. How would you... and what did you experience? And would you do it again like that?
+- Closed question: Questions that can be answered with a simple yes or no. Are you interested in this position?
 
 ## Biases
 
@@ -47,91 +50,92 @@ When meeting candidates, you need to be extra cautious with mechanisms that make
 
 To counteract biases, you need to be very aware of your own pitfalls. When interviewing with a selection committee, point out biases to each other and be objective in assessing candidates.
 
-## Assessing Candidates
+## **How do I prepare for a job interview?
 
-Again, your pre-determined competencies come into play here. It's important that each member of the committee takes notes for each candidate individually. 
-You should discuss each candidate's properties after you have met everyone. 
-Sometimes it's very clear, and the entire committee has a definite preference for one candidate. 
-When it's not as clear because you don't agree or because there are several good candidates, we can offer at least two suggestions.
+1. **Determine the Required Competencies:**
+   - Clearly establish to yourself and the selection committee which competencies are absolutely necessary to perform the job adequately. Make a clear distinction between a required competency and a nice-to-have. Write a concise definition for each competency (for inspiration, see competency list in the appendix). It's important that every member of the committee "speaks the same language." Additionally, besides competencies, you may also decide that motivation, drive, or values are important qualities for the position. The key is to determine in advance what you want to learn about the candidate.
 
-## Additional Conversation
-Sometimes it can help to invite the final candidates you are unsure about for an additional informal conversation. Often, the work environment is shown during this conversation, and candidates might meet future colleagues from the team. It mainly offers the candidate a chance to get to know a potential future work environment more calmly. We often receive feedback from committee members that the last informal conversation clarified many things. Afterwards, they can easily make a decision.
+2. **Select the Interview Techniques:**
+   - In most cases, it's desired to assess competencies during an interview. You can find the best ways to assess this in this document (interview structure and types of questions). However, you may also want to conduct a case study or practical test alongside an interview. This strengthens your selection process and is highly recommended. However, this doesn't apply to every type of position, so carefully consider whether a case study is meaningful in your selection process.
+   - Example:
+      - A creative writing exercise for the position of communication officer.
+      - An Excel analysis for a financial officer.
+      - A presentation on change management for a department head.
+      - ...
 
-## Competency Matrix
+   - If you create a case study, ensure that the tasks reflect the job content. Also, it's important to have the case study ready before the selection process begins. This way, your case study is based on the competencies you deem necessary for the position. Often, a case study is only prepared after an initial interview. The case is then tailored to the candidate, thus less effectively highlighting the role. This makes your selection process less sharp and more prone to making incorrect assessments of candidates. 
+   - Therefore, the selection process is determined in advance based on the job requirements and is not influenced by the qualities or growth potential of your candidates. In short, stick to the competencies needed to perform the job.
 
-Unfortunately, we don't always have time for an additional conversation. In such cases, a competency matrix can provide a solution. This can be done in various ways, but we provide a commonly used version here. 
-The committee determined in advance that motivation, experience, the ability to work with others, decisiveness, and vision formation were the key properties to be screened for. Extra importance was attached to vision formation. You deemed these competencies necessary to perform the function properly. Motivation was seen as a second priority property, so both received an increased value. Then you assess how many "points" you give the candidates on the following properties. 
-We use the following scale: 1 (barely present) - 2 (sufficiently present) - 3 (strongly present).
+3. **Determine Your Role:**
+   - Throughout the entire selection process, at least three members of the selection committee should be involved. It's important to agree in advance on who will lead and conclude the interview. Also, determine who will keep track of time and give timely warnings if the interview is running over. Usually, it's also agreed upon who will provide information about the entity/position to the candidate.
 
-It's not intended to reduce candidates to a single score. This matrix can help when committee members disagree or when both candidates seem suitable. Discussing the matrix leads to new insights and makes you aware of potential biases. Ultimately, you decide with the committee whether you stand behind this outcome.
+4. **Be Aware of the Salary:**
+   - Every vacancy is advertised with the intention of filling it at a modal grade. Initially, we consider remuneration at the modal grade. Promising candidates who may not be able to perform all tasks immediately are offered the induction grade. The senior grade is rather exceptional and is reserved for candidates who can take on extra responsibilities right from the start of the job. Make sure you know in advance what the remuneration entails. You can consult the pay scale books or your selection advisor for this. During the first interview, salary expectations are often discussed to see if they somewhat align with the pay scale. This can be easily asked during an initial interview by briefly inquiring about the candidate's salary expectations. Most candidates will talk about their current salary. Be sure to ask if there are any additional fringe benefits besides a gross salary that may not be part of our package (e.g., a company car). During the selection interview, you should not make any statements about the expected salary. This depends on the selection process, the candidate's experience, and competencies. An offer is only made after mutual agreement and consultation with your selection advisor.
 
-### Frequently Asked Questions: Detailed Responses
+
+
+
+## What if there's no clear preference for one candidate?
+Sometimes it's very clear, and the entire committee has an absolute preference for one candidate. 
+At times when this isn't so clear because you don't agree or because there are multiple good candidates, we can offer two suggestions.
+
+### 1. Additional Interview
+Sometimes inviting the final candidates you're undecided between for an additional interview can help. This interview is more informal in nature, often showing the work environment and allowing them to meet potential future colleagues. It mainly provides the candidate with an opportunity to get acquainted with a potential future work environment calmly. We often receive feedback from committee members that the final informal interview clarified many things. Afterwards, they can easily make a decision.
+
+### 2. Competency Matrix
+Unfortunately, we don't always have time for an additional interview. In that case, a competency matrix can be helpful. A competency matrix is a structured tool used to assess and compare candidates based on predetermined criteria or competencies deemed essential for a specific role. In our case, the committee has identified several key competencies: motivation, experience, collaboration, decisiveness, and vision formation. Each of these competencies is assigned a value on a scale of 1 to 3, representing their presence or strength in the candidate.
+
+For example, a candidate might be rated as follows:
+- Motivation: 2 (indicating sufficient motivation)
+- Experience: 3 (indicating strong experience)
+- Collaboration: 1 (indicating limited ability to collaborate)
+- Decisiveness: 1 (indicating limited decisiveness)
+- Vision Formation: 3 (indicating strong ability in forming vision)
+
+These values are then multiplied by a predetermined weight assigned to each competency, reflecting its importance in the role. For instance, if vision formation is considered particularly critical, it may be assigned a higher weight. By multiplying the value of each competency by its weight and summing the results, you arrive at a total score for each candidate. This score provides a quantitative measure of how well each candidate aligns with the desired competencies for the role.
+
+However, it's important to note that the competency matrix is not meant to be the sole determinant of candidate selection. Instead, it serves as a structured framework to aid decision-making, particularly in cases where committee members may have differing opinions or where multiple candidates appear equally qualified. Discussing the matrix can facilitate consensus-building among committee members and help identify any biases in the evaluation process. Ultimately, the decision to proceed with a candidate is made collaboratively based on both the quantitative assessment provided by the matrix and qualitative insights from the interview process.
+
+## How can we ensure a good candidate experience?
+The candidate experience is the overall experience that an applicant undergoes during the job application process. It starts from the moment the candidate comes into contact with your organization.
+We provide some tips to guarantee a pleasant candidate experience:
+- Be honest about the position and clearly explain it.
+- Put the candidate at ease and ask relevant questions.
+- Explain the process (number of rounds, what to expect).
+- Keep to your commitments (you'll hear from us within 5 days).
+- Provide honest answers to candidates' questions.
+- Give honest feedback.
+
+
+
+## Frequently Asked Questions: Detailed Responses
 
 Below is an overview of the most frequently asked questions. If you have other inquiries, please contact the selection advisor who is assisting you with this vacancy.
 
-#### Pre-Screening
-**Q: I find it challenging to make a consistent judgment across all candidates. What can I do to improve this?**  
-**A:** Review the criteria you're using to ensure they are clear and applicable based on resumes and cover letters. Clarify for yourself what the ideal candidate should embody, what is sufficient for the role, and what is insufficient. Consider employing a numerical scoring system to check for consistency across evaluations and revisit any outlier assessments.
-
+### Pre-Screening
+ 
 **Q: What if a candidate doesn't have the required degree? How flexible can I be?**  
-**A:** Refer back to your job posting to determine the strictness of the degree requirements. For instance, if the posting specifically requires a bachelor's degree in office management, only candidates with that degree qualify. If experience can substitute for the specified degree, you may include candidates with relevant job experience. The key is to apply these criteria consistently across all applications.
-
-**Q: What if my candidate doesn't meet the asked years of relevant experience?**  
-**A:** Revisit your job posting to understand how experience was framed. If it was described as a bonus, you might consider candidates who lack the specified experience, ensuring consistency in your approach. If specific years of experience were a firm requirement, this should be reflected in your evaluation. The context of the experience should also guide your assessment of the applications.
-
-**Q: Can I take references?**  
-**A:** Requesting references requires the candidate's consent due to GDPR regulations. Implicit consent is assumed if the candidate lists references in their resume or cover letter. Exercise caution when interpreting this information, considering its potential subjectivity and the evolving nature of individuals.
-
-**Q: Can I use criteria not initially outlined in the job profile?**  
-**A:** Stick to the requirements specified in the job profile to ensure fairness. Introducing new criteria post-hoc can unjustly disqualify candidates who might not have addressed these aspects in their applications due to their absence in the original job posting.
-
-**Q: Is it necessary to follow all these steps?**  
-**A:** Following a process that ensures objective evaluation is crucial, especially when new to pre-screenings. As you gain experience, some steps might become intuitive. However, involving multiple evaluators, setting clear criteria, and challenging each other's assessments can help mitigate bias and enhance objectivity.
-
-**Q: Do I need to wait until the application period closes to start pre-screening?**  
-**A:** You can begin assessing applications during the application period, but it's important to remain open to new submissions and give late applicants the same consideration as early ones.
-
+**A:** Take a moment to review your job posting: what exactly did you include in it? The stricter the diploma requirements stated in your job posting, the stricter you should apply the assessment on this criterion. Here are some examples:
+• You obtained a bachelor's degree in office management: this is a strict formulation, and only candidates who meet this requirement are eligible.
+• You obtained a bachelor's degree in office management or equivalent through experience: in this case, you can also consider candidates who have gained relevant job experience.
+• You obtained a bachelor's degree: in this case, you can consider candidates with either a bachelor's or master's degree, but you cannot include candidates without these degrees but have relevant experience in the preselection.
+• You obtained a bachelor's degree or equivalent through experience: in this case, you can consider candidates with either a bachelor's or master's degree, as well as candidates without these degrees but have relevant experience."
+ 
+**Q: "Can I use other criteria than the ones we have predefined in the job profile?**
+**A:** No, it is important that you adhere to the requirements outlined in the job profile. Candidates are not aware of the elements not mentioned here and thus could not address these needs in their CV and cover letter. You risk unfairly excluding a number of people. Dticking to the criteria outlined in the job profile is essential for maintaining fairness, transparency, and legal compliance in the hiring process. Introducing new criteria midway can create confusion, disadvantage candidates, introduce bias, and raise legal risks, ultimately undermining the integrity of the selection process.
+ 
 **Q: I have a large pool of candidates and have selected enough for the first round. Can I hold the rest as reserves and only consider them if the first round doesn't yield a suitable candidate?**  
-**A:** To ensure fair treatment, it's important to evaluate every application and include all candidates with comparable profiles in the selection process.
+**A:** No, for the sake of equal treatment of candidates, it's important to consider each application and review all candidates with equivalent profiles in the selection process.
 
 **Q: My top candidate applied on day one. Can I proceed with their candidacy and close the vacancy?**  
-**A:** Fair treatment mandates that all applications are considered. Closing the vacancy prematurely could deny equal opportunities. You might, however, engage with promising early applicants to keep them interested in the position.
+**A:** No, here too, for the sake of equal treatment of candidates, it's important to review each application and consider all candidates with equivalent profiles in the selection process. Moreover, in order to provide equal opportunities for consideration for a position at KU Leuven, we cannot simply close vacancies prematurely. However, you can contact the selection manager to discuss how you can initiate initial contact with these candidates to ensure their continued interest in your vacancy."
 
 #### Interview
-**Q: Do internal candidates have to go through the selection process?**  
-**A:** Yes, to ensure fairness, both internal and external candidates must undergo the same selection process.
-
-**Q: The candidate is suitable for the role but lives far away, causing me to hesitate.**  
-**A:** Previous experiences with long commutes should not bias your decision. Engage in an open discussion with the candidate about their views on commuting. 
-
-**Q: A candidate asked how they performed at the end of the interview. What should I say?**  
-**A:** It's prudent to be cautious. Explain that you'll provide feedback after considering all candidates and discussing with your colleagues, emphasizing the importance of a fair process.
-
-**Q: A candidate requests to reschedule the interview. Should I accommodate this?**  
-**A:** If feasible and without compromising the fairness of the process, consider rescheduling. Ensure the new timing doesn't delay the overall selection process and maintain the same conditions as for other candidates.
-
-**Q: A candidate wants the interview in a different language. Is this allowed?**  
-**A:** This can be accommodated, but consider the language used in the workplace and discuss language proficiency with the candidate. For roles requiring specific language skills, ensure the candidate's proficiency meets the job requirements.
-
-**Q: All candidates were invited in-person, but one can only attend online. Should I allow this?**  
-**A:** Yes, but strive to keep the interview conditions as uniform as possible. Avoid conducting a group call with the
-
- selection committee; instead, each member should log in individually to ensure the candidate can clearly see and interact with everyone.
-
-**Q: Can I customize the case study based on a candidate's talents or attributes?**  
-**A:** The case study should be prepared in advance and aim to assess competencies critical for the role. If adjustments are necessary, they should be consistent across all candidates and relevant to the job.
-
-**Q: My candidate didn't show up for the interview. What now?**  
-**A:** You might reach out to reschedule, but if you've already identified a suitable candidate, note the absence, which results in a failed assessment for the no-show candidate.
-
-**Q: I have two equally good candidates and can't decide.**  
-**A:** Revisit your initial criteria. If there's a tie, an informal follow-up meeting might help, offering insights by introducing the candidates to the work environment and potential colleagues.
-
-**Q: None of the interviewed candidates seem suitable.**  
-**A:** It might be best to restart the selection process rather than settling for a candidate about whom you have reservations. Inform your selection advisor to discuss the next steps.
-
-**Q: We found the ideal candidate, but their salary expectations exceed our pay scale.**  
-**A:** Salary negotiations can be complex. First, consult your selection advisor. Then, transparently communicate the salary boundaries to the candidate, allowing them to reconsider their participation in the selection process. Consider the candidate's experience, which might justify a higher salary within your framework.
+ 
+ 
+**Q: My candidate not only asks for feedback about the procedure for which I conducted the pre-screening but also seeks more information about other selection procedures. However, I am not aware of this. What can I do?**  
+**A:** In that case, you can refer the candidate to the Recruitment & Selection manager. We will ensure to promptly contact the candidate and provide them with the necessary information."
 
 
-
+**Q: The candidate wishes to reschedule the selection interview to another time, should I agree to this?**
+**A:** If you wish to meet the candidate and you can convene the entire selection committee, then you can certainly accommodate this request. It's important that you schedule the new time not much later than when you meet other candidates. They expect feedback, which you can only provide after meeting everyone. Similarly, it's important that the procedure remains consistent. If all other candidates were given 45 minutes, this should also apply to this candidate. If other candidates met with the full selection committee, then the candidate requesting a different date should also meet with the full selection committee.

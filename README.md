@@ -27,6 +27,28 @@ In any case, inform your selection advisor of the candidates who need to be noti
 
 - Through the HR Department: If you enlist the HR department to invite candidates, we need a specific overview of the candidates (to be invited and rejected) at least 5 working days before the start of the first interview. Clearly state the purpose of the interview (with or without case/tests/preparation) and the time allocated to meet all candidates (e.g., 1/9/2022 from 9 am to 1 pm). Also, indicate how long you wish to meet each candidate (e.g., a minimum of 45 minutes per candidate).
 
+## **How do I prepare for a job interview?
+
+1. **Determine the Required Competencies:**
+   - Clearly establish to yourself and the selection committee which competencies are absolutely necessary to perform the job adequately. Make a clear distinction between a required competency and a nice-to-have. Write a concise definition for each competency (for inspiration, see competency list in the appendix). It's important that every member of the committee "speaks the same language." Additionally, besides competencies, you may also decide that motivation, drive, or values are important qualities for the position. The key is to determine in advance what you want to learn about the candidate.
+
+2. **Select the Interview Techniques:**
+In most cases, it's desired to assess competencies during an interview. You can find the best ways to assess this in this document (interview structure and types of questions). However, you may also want to conduct a case study or practical test alongside an interview. This strengthens your selection process and is highly recommended. However, this doesn't apply to every type of position, so carefully consider whether a case study is meaningful in your selection process.
+   - Example:
+      - A creative writing exercise for the position of communication officer.
+      - An Excel analysis for a financial officer.
+      - A presentation on change management for a department head.
+      - ...
+
+   - If you create a case study, ensure that the tasks reflect the job content. Also, it's important to have the case study ready before the selection process begins. This way, your case study is based on the competencies you deem necessary for the position. Often, a case study is only prepared after an initial interview. The case is then tailored to the candidate, thus less effectively highlighting the role. This makes your selection process less sharp and more prone to making incorrect assessments of candidates. 
+   - Therefore, the selection process is determined in advance based on the job requirements and is not influenced by the qualities or growth potential of your candidates. In short, stick to the competencies needed to perform the job.
+
+3. **Determine Your Role:**
+Throughout the entire selection process, at least three members of the selection committee should be involved. It's important to agree in advance on who will lead and conclude the interview. Also, determine who will keep track of time and give timely warnings if the interview is running over. Usually, it's also agreed upon who will provide information about the entity/position to the candidate.
+
+4. **Be Aware of the Salary:**
+Every vacancy is advertised with the intention of filling it at a modal grade. Initially, we consider remuneration at the modal grade. Promising candidates who may not be able to perform all tasks immediately are offered the induction grade. The senior grade is rather exceptional and is reserved for candidates who can take on extra responsibilities right from the start of the job. Make sure you know in advance what the remuneration entails. You can consult the pay scale books or your selection advisor for this. During the first interview, salary expectations are often discussed to see if they somewhat align with the pay scale. This can be easily asked during an initial interview by briefly inquiring about the candidate's salary expectations. Most candidates will talk about their current salary. Be sure to ask if there are any additional fringe benefits besides a gross salary that may not be part of our package (e.g., a company car). During the selection interview, you should not make any statements about the expected salary. This depends on the selection process, the candidate's experience, and competencies. An offer is only made after mutual agreement and consultation with your selection advisor.
+
 ## Questions to avoid
 
 The following questions are best avoided during a job interview:
@@ -49,30 +71,6 @@ When meeting candidates, you need to be extra cautious with mechanisms that make
 - Similar-to-me effect: when you recognize your own characteristics in the candidate.
 
 To counteract biases, you need to be very aware of your own pitfalls. When interviewing with a selection committee, point out biases to each other and be objective in assessing candidates.
-
-## **How do I prepare for a job interview?
-
-1. **Determine the Required Competencies:**
-   - Clearly establish to yourself and the selection committee which competencies are absolutely necessary to perform the job adequately. Make a clear distinction between a required competency and a nice-to-have. Write a concise definition for each competency (for inspiration, see competency list in the appendix). It's important that every member of the committee "speaks the same language." Additionally, besides competencies, you may also decide that motivation, drive, or values are important qualities for the position. The key is to determine in advance what you want to learn about the candidate.
-
-2. **Select the Interview Techniques:**
-   - In most cases, it's desired to assess competencies during an interview. You can find the best ways to assess this in this document (interview structure and types of questions). However, you may also want to conduct a case study or practical test alongside an interview. This strengthens your selection process and is highly recommended. However, this doesn't apply to every type of position, so carefully consider whether a case study is meaningful in your selection process.
-   - Example:
-      - A creative writing exercise for the position of communication officer.
-      - An Excel analysis for a financial officer.
-      - A presentation on change management for a department head.
-      - ...
-
-   - If you create a case study, ensure that the tasks reflect the job content. Also, it's important to have the case study ready before the selection process begins. This way, your case study is based on the competencies you deem necessary for the position. Often, a case study is only prepared after an initial interview. The case is then tailored to the candidate, thus less effectively highlighting the role. This makes your selection process less sharp and more prone to making incorrect assessments of candidates. 
-   - Therefore, the selection process is determined in advance based on the job requirements and is not influenced by the qualities or growth potential of your candidates. In short, stick to the competencies needed to perform the job.
-
-3. **Determine Your Role:**
-   - Throughout the entire selection process, at least three members of the selection committee should be involved. It's important to agree in advance on who will lead and conclude the interview. Also, determine who will keep track of time and give timely warnings if the interview is running over. Usually, it's also agreed upon who will provide information about the entity/position to the candidate.
-
-4. **Be Aware of the Salary:**
-   - Every vacancy is advertised with the intention of filling it at a modal grade. Initially, we consider remuneration at the modal grade. Promising candidates who may not be able to perform all tasks immediately are offered the induction grade. The senior grade is rather exceptional and is reserved for candidates who can take on extra responsibilities right from the start of the job. Make sure you know in advance what the remuneration entails. You can consult the pay scale books or your selection advisor for this. During the first interview, salary expectations are often discussed to see if they somewhat align with the pay scale. This can be easily asked during an initial interview by briefly inquiring about the candidate's salary expectations. Most candidates will talk about their current salary. Be sure to ask if there are any additional fringe benefits besides a gross salary that may not be part of our package (e.g., a company car). During the selection interview, you should not make any statements about the expected salary. This depends on the selection process, the candidate's experience, and competencies. An offer is only made after mutual agreement and consultation with your selection advisor.
-
-
 
 
 ## What if there's no clear preference for one candidate?
@@ -129,6 +127,8 @@ Below is an overview of the most frequently asked questions. If you have other i
 
 **Q: My top candidate applied on day one. Can I proceed with their candidacy and close the vacancy?**  
 **A:** No, here too, for the sake of equal treatment of candidates, it's important to review each application and consider all candidates with equivalent profiles in the selection process. Moreover, in order to provide equal opportunities for consideration for a position at KU Leuven, we cannot simply close vacancies prematurely. However, you can contact the selection manager to discuss how you can initiate initial contact with these candidates to ensure their continued interest in your vacancy."
+
+
 
 #### Interview
  

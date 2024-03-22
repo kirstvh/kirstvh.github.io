@@ -18,16 +18,8 @@ You can structure the job interview as follows:
 
 6. **Allow the candidate to ask questions:** Answer the candidate's questions briefly and to the point. For questions about employment conditions (such as salary, insurance, etc.), refer to the HR department. Please always coordinate salary and start date with the selection advisor.
 
-## Inviting Candidates
-
-You may invite the candidates you wish to meet for a first interview yourself or you can rely on your selection advisor for this. 
-
-- Inviting Yourself: When inviting candidates yourself, ensure that the purpose of the meeting is clear. Is it solely an interview, or do you also expect the candidate to undertake a case study? Of course, provide the day, location, and time. But don't forget to specify the end time as well. This allows candidates to organize themselves optimally. 
-In any case, inform your selection advisor of the candidates who need to be notified that they will not be invited for further steps in the selection process. 
-
-- Through the HR Department: If you enlist the HR department to invite candidates, we need a specific overview of the candidates (to be invited and rejected) at least 5 working days before the start of the first interview. Clearly state the purpose of the interview (with or without case/tests/preparation) and the time allocated to meet all candidates (e.g., 1/9/2022 from 9 am to 1 pm). Also, indicate how long you wish to meet each candidate (e.g., a minimum of 45 minutes per candidate).
-
-## **How do I prepare for a job interview?
+## How do I prepare for a job interview?
+You can prepare the job interview as follows:
 
 1. **Determine the Required Competencies:**
    - Clearly establish to yourself and the selection committee which competencies are absolutely necessary to perform the job adequately. Make a clear distinction between a required competency and a nice-to-have. Write a concise definition for each competency (for inspiration, see competency list in the appendix). It's important that every member of the committee "speaks the same language." Additionally, besides competencies, you may also decide that motivation, drive, or values are important qualities for the position. The key is to determine in advance what you want to learn about the candidate.
@@ -48,6 +40,16 @@ Throughout the entire selection process, at least three members of the selection
 
 4. **Be Aware of the Salary:**
 Every vacancy is advertised with the intention of filling it at a modal grade. Initially, we consider remuneration at the modal grade. Promising candidates who may not be able to perform all tasks immediately are offered the induction grade. The senior grade is rather exceptional and is reserved for candidates who can take on extra responsibilities right from the start of the job. Make sure you know in advance what the remuneration entails. You can consult the pay scale books or your selection advisor for this. During the first interview, salary expectations are often discussed to see if they somewhat align with the pay scale. This can be easily asked during an initial interview by briefly inquiring about the candidate's salary expectations. Most candidates will talk about their current salary. Be sure to ask if there are any additional fringe benefits besides a gross salary that may not be part of our package (e.g., a company car). During the selection interview, you should not make any statements about the expected salary. This depends on the selection process, the candidate's experience, and competencies. An offer is only made after mutual agreement and consultation with your selection advisor.
+
+## Inviting Candidates
+
+You may invite the candidates you wish to meet for a first interview yourself or you can rely on your selection advisor for this. 
+
+- Inviting Yourself: When inviting candidates yourself, ensure that the purpose of the meeting is clear. Is it solely an interview, or do you also expect the candidate to undertake a case study? Of course, provide the day, location, and time. But don't forget to specify the end time as well. This allows candidates to organize themselves optimally. 
+In any case, inform your selection advisor of the candidates who need to be notified that they will not be invited for further steps in the selection process. 
+
+- Through the HR Department: If you enlist the HR department to invite candidates, we need a specific overview of the candidates (to be invited and rejected) at least 5 working days before the start of the first interview. Clearly state the purpose of the interview (with or without case/tests/preparation) and the time allocated to meet all candidates (e.g., 1/9/2022 from 9 am to 1 pm). Also, indicate how long you wish to meet each candidate (e.g., a minimum of 45 minutes per candidate).
+
 
 ## Questions to avoid
 

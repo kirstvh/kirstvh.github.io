@@ -3500,11 +3500,6 @@
     "complaint_type_fr": "Pas payé parce que l'horodateur était en panne ou pas disponible"
 },
 {
-    "complaint": "Beste,\n\nOp het moment in kwestie hadden we per sms een bezoekerscode van de stad [Stad] geactiveerd ([Datum], [Tijd], code [Code]) en stond de auto in de tolerantiezone geparkeerd.\n\nMet vriendelijke groeten,  \n[Naam]",
-    "complaint_type_nl": "Ik heb betaald met een bezoekerskaart (voucher)",
-    "complaint_type_fr": "J'ai payé avec une carte visiteur (voucher)"
-},
-{
     "complaint": "Bonjour, excusez-moi mais l'emplacement était privé comme sur photos, merci.",
     "complaint_type_nl": "Andere",
     "complaint_type_fr": "Autres"
